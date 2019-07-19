@@ -1,9 +1,9 @@
 class Person 
-  def initialize (adele, goldberg)
+  def initialize (adele_goldberg)
     @first_name = Adele 
     @last_name = Goldberg 
     
-    def initialize (alan, kay)
+    def initialize (alan_kay)
     @first_name = Alan  
     @last_name = Kay  
     
