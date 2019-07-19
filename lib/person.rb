@@ -3,4 +3,7 @@ class Person
     @first_name = Adele 
     @last_name = Goldberg 
     
-    def 
+    def initialize (alan, kay)
+    @first_name = Alan  
+    @last_name = Kay  
+    
