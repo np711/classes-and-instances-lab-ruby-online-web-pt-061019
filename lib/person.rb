@@ -1,2 +1,6 @@
-person class 
-public person(adele_goldberg)
+class Person 
+  def initialize (adele, goldberg)
+    @first_name = Adele 
+    @last_name = Goldberg 
+    
+    def 
