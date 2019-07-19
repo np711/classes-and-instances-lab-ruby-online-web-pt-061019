@@ -7,3 +7,6 @@ class Person
     @first_name = Alan  
     @last_name = Kay  
     
+  end 
+end 
+    
